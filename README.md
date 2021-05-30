@@ -9,6 +9,6 @@ Here we are using Transfer Learning & fine tunning the pre-trained model.We go a
 
 ![image](https://user-images.githubusercontent.com/63066870/120066549-bd62e580-c094-11eb-87bd-200d2b46e665.png)
 
-Steps to Run this Architecture locally (GPU recommended) :
 
-1] Download the dataset from the above link & change the directory paths in
+NOTE : Download the dataset from the above link & change the directory paths in Dataset_Preparation.py to run this architecture locally (GPU recommended).
+ 
